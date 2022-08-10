@@ -18,8 +18,8 @@ body {
 
 img {
   width: 300px;
-  position: relative;
-  top: 100px;
-  right: 100px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
     
 }
