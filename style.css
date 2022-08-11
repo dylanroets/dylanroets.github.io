@@ -23,3 +23,15 @@ img {
   right: 0px;
     
 }
+
+.skills-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #444444;
+  border-bottom: 1px solid #444444;
+}
+
+.footer {
+  padding-left:10px;
+  font-style: underline;
+}
